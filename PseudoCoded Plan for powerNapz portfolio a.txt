@@ -1,0 +1,8 @@
+Portfolio Folder
+Clone Repository From Github To Laptop
+3 HTML documents: index, contact and portfolio.html files
+Create Assets Folder
+INside Assets folder; create (2) more folders- css & images
+INside css folder create style.css files
+INside images folder, save any images for the site
+Push to GitHub ONce Achieved These Steps!
